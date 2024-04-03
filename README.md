@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a Full-Stack Developer in São Paulo, Brazil.
+I'm a Full-Stack Developer from São Paulo, Brazil.
 
 
   ##
