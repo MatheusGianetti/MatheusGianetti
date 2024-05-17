@@ -26,10 +26,6 @@ I am finishing college in Systems Analysis and Development.
 - Docker  <img align="center" alt="Docker" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 - Git  <img align="center" alt="Git" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-### Productivity utilities
-
-- Microsoft Office
-
 ## What I'm currently learning 📚
 
 - Java
@@ -37,15 +33,6 @@ I am finishing college in Systems Analysis and Development.
 - Cybersecurity
 - Microsoft Power Automate
 
-
-### Languages 🌐
-
-| Language        | Proficiency                                                               |
-| --------------- | ------------------------------------------------------------------------- |
-| Portuguese (BR) | Native language                                                           |
-| English         | Advanced                                                                  |
-| Spanish         | Intermediate                                                              |
- 
 <div> 
  
   <a href="https://www.linkedin.com/in/matheus-gianetti-figueiredo-53558a168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
