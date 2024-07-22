@@ -25,6 +25,8 @@ I am currently working as a freelance web developer and finishing college in Sys
 - Redis  <img align="center" alt="Redis" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 - Docker  <img align="center" alt="Docker" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 - Git  <img align="center" alt="Git" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+- WordPress <img align="center" alt="WordPress" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+>
 
 ## Some of my projects 💻
 
