@@ -7,7 +7,7 @@ I'm a Full-Stack Developer from São Paulo, Brazil.
 ### What I do
 
 I am a highly motivated Full-Stack Developer with over a year of experience in developing internal systems to assist in fraud identification using a wide range of technologies, including C#, GoLang, PostgreSQL, Redis, Typescript, Angular, React, Docker, Git, and Scrum methodology in both Windows and Linux systems.
-I am finishing college in Systems Analysis and Development.
+I am currently working as a freelance web developer and finishing college in Systems Analysis and Development.
 
 ## My skills 📜
 
@@ -26,12 +26,11 @@ I am finishing college in Systems Analysis and Development.
 - Docker  <img align="center" alt="Docker" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 - Git  <img align="center" alt="Git" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-## What I'm currently learning 📚
+## Some of my projects 💻
 
-- Java
-- Python
-- Cybersecurity
-- Microsoft Power Automate
+- https://aurichiomotorista.com
+- https://didieletrica.com
+- https://techtopia.com.br
 
 <div> 
  
