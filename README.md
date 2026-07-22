@@ -38,13 +38,6 @@ I am a highly motivated Full-Stack Developer with over a year of experience in d
 - Git  <img align="center" alt="Git" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 - Linux  <img align="center" alt="Linux" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-## Some of my projects 💻
-
-- https://aurichiomotorista.com
-- https://didieletrica.com
-- https://techtopia.com.br
-  
-
 <div> 
  
   <a href="https://www.linkedin.com/in/matheus-gianetti-figueiredo-53558a168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
